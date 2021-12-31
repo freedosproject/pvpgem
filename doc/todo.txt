@@ -1,0 +1,20 @@
+THINGS I'D LIKE TO ADD/FIX IN FUTURE VERSIONS:
+
++ Don't redraw the entire board every time. Probably one way around
+  this is to update show_board to take an extra option:
+  
+  void show_board(int **board, int bgcolor);
+  
+  ..and for any value 0-15, use that for the background color. For any
+  value outside that range, don't draw the background at all (just draw
+  gems on top of what you already have).
+
++ Let the user add their own names, not "Player 0" and "Player 1."
+
++ Replace numerical score with a "progress bar" to visually show the
+  "race" to the finish line.
+
++ Instead of plain circles, make them actual gems using different
+  shapes (diamons, etc). Probably easiest to do this by drawing a gem
+  at startup, saving that with _getimage, then using _putimage to
+  stamp it onto the screen.
