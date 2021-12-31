@@ -1,0 +1,27 @@
+ABOUT THE GAME:
+
+PvP Gem is a two-player match-3 game. There are 8 different gems on a
+10x10 board.
+
+Two players take turns. You select a "gem," that gem is destroyed, and
+you get a point. Other gems fill in from above. If you can match 3 or
+more gems, you get points for those too. The first player to reach 25
+points wins the game.
+
+
+HOW TO PLAY:
+
+For your turn, use the arrow keys to move the selector frame around
+the board. When you have found the gem you want to destroy, press the
+Enter key to select it.
+
+That gem will be destroyed, and you'll get a point. Other gems will
+fill in from above. If the result is a match of 3 or more gems of the
+same color, those are destroyed and you get more points. And so on for
+further matches.
+
+Then your turn is over and it's your opponent's turn.
+
+Playing PvP Gem requiers some strategy. As you play, you need to be
+careful what gem you destroy so you don't set up your opponent for a
+great move!
