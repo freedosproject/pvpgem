@@ -1,0 +1,8 @@
+CONTRIBUTORS:
+
+Jim Hall (jhall@freedos.org) *author
+
++ your name here!
+
+Contribute to PvP Gem on GitHub:
+https://github.com/freedosproject/pvpgem
