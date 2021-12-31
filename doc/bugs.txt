@@ -1,0 +1,11 @@
+KNOWN ISSUES:
+
++ No sound? PvP Gem uses the PC speaker for sound. If your system does
+  not have a PC speaker (modern hardware may not - also note that
+  VirtualBox may not emulate a PC speaker) then you will not get
+  sound. [not a bug]
+
+If you find a bug or other problem in PvP Gem, please let me know in
+the GitHub tracker at:
+
+https://github.com/freedosproject/pvpgem/issues
