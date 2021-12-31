@@ -1,0 +1,12 @@
+HOW TO BUILD:
+
+PvP Gem leverages the graphics primitives functions from OpenWatcom,
+so you will need OpenWatcom to build this on FreeDOS.
+
+There are no libraries or other dependencies.
+
+Set up your OpenWatcom environment as you usually would. For example,
+the FreeDOS distribution includes an OWSETUP.BAT that sets up your
+environment variables so you can compile with OpenWatcom.
+
+The BUILD.BAT includes all the steps to compile PvP Gem.
