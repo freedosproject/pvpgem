@@ -1,0 +1,5 @@
+VERSION HISTORY: (most recent first)
+
+1.0 (Dec 30 2021)
+
+First version of PvP Gem. jhall@freedos.org
